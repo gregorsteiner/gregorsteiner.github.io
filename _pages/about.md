@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About me
 
 I am a first-year PhD student at the University of Warwick, supervised by [Prof. Mark Steel](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/). My research focuses on causal inference and model uncertainty, with a strong emphasis on Bayesian methods. I am particularly interested in how model selection techniques can be used to relax causal assumptions. For example, my current work explores Bayesian model averaging in instrumental variable models. My motivation primarily stems from applications in economics and biomedicine.
 
