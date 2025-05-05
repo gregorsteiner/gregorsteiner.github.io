@@ -11,8 +11,8 @@ author_profile: true
 
 ## Preprints
 
-* Steiner, G., & Steel, M. (2025). Bayesian Model Averaging in Causal Instrumental Variable Models, arXiv:2504.13520. [[Paper](https://arxiv.org/abs/2504.13520), [Code](https://github.com/gregorsteiner/gIVBMA-Code)]
+* Steiner, G., & Steel, M. (2025). Bayesian Model Averaging in Causal Instrumental Variable Models. arXiv:2504.13520. [[Paper](https://arxiv.org/abs/2504.13520), [Code](https://github.com/gregorsteiner/gIVBMA-Code)]
 
 ## Discussion Contributions
 
-* Gregor Steiner and Mark Steel’s contribution to the Discussion of ‘Parameterizing and Simulating from Causal Models’ by Evans and Didelez’. Journal of the Royal Statistical Society Series B, 86(3), 580–582, 2024. [[Paper](https://doi.org/10.1093/jrsssb/qkae021), [Code](https://github.com/gregorsteiner/Evans_Didelez_2023)]
+* Steiner, G., & Steel, M. (2024). Gregor Steiner and Mark Steel’s contribution to the Discussion of ‘Parameterizing and Simulating from Causal Models’ by Evans and Didelez’. Journal of the Royal Statistical Society Series B, 86(3), 580–582. [[Paper](https://doi.org/10.1093/jrsssb/qkae021), [Code](https://github.com/gregorsteiner/Evans_Didelez_2023)]
