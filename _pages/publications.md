@@ -17,7 +17,7 @@ author_profile: true
 
 ## Discussion Contributions
 
-* **Gregor Steiner and Mark Steel’s contribution to the Discussion of ‘Parameterizing and Simulating from Causal Models’ by Evans and Didelez’**
+* **Gregor Steiner and Mark Steel’s contribution to the Discussion of ‘Parameterizing and Simulating from Causal Models’ by Evans and Didelez’**  
   with Mark Steel  
   Journal of the Royal Statistical Society Series B, 86(3), 580–582  
   [[Paper](https://doi.org/10.1093/jrsssb/qkae021)] [[Code](https://github.com/gregorsteiner/Evans_Didelez_2023)]
