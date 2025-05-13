@@ -9,8 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-## Preprints
-
+## Working Papers
 
 * **Bayesian Model Averaging in Causal Instrumental Variable Models**  
   with Mark Steel  
