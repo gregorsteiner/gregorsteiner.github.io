@@ -11,8 +11,8 @@ author_profile: true
 
 ## Working Papers
 
-* **Possibilistic Instrumental Variable Regression**
-  with Jeremie Houssineau and Mark Steel
+* **Possibilistic Instrumental Variable Regression**  
+  with Jeremie Houssineau and Mark Steel  
   [[arXiv](https://arxiv.org/abs/2511.16029)] [[Code](https://github.com/gregorsteiner/PossibilisticIV)]
 * **Bayesian Model Averaging in Causal Instrumental Variable Models**  
   with Mark Steel  
