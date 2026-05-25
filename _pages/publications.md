@@ -14,9 +14,13 @@ author_profile: true
 * **Possibilistic Instrumental Variable Regression**  
   with Jeremie Houssineau and Mark Steel  
   [[arXiv](https://arxiv.org/abs/2511.16029)] [[Code](https://github.com/gregorsteiner/PossibilisticIV)]
+
+## Peer-reviewed Publications
+
 * **Bayesian Model Averaging in Causal Instrumental Variable Models**  
+  Journal of Applied Econometrics, forthcoming  
   with Mark Steel  
-  [[arXiv](https://arxiv.org/abs/2504.13520)] [[Code](https://github.com/gregorsteiner/gIVBMA-Code)] [[Julia package](https://github.com/gregorsteiner/gIVBMA.jl)]
+  [[Journal](https://doi.org/10.1002/jae.70070)] [[arXiv](https://arxiv.org/abs/2504.13520)] [[Code](https://github.com/gregorsteiner/gIVBMA-Code)] [[Julia package](https://github.com/gregorsteiner/gIVBMA.jl)]
 
 ## Discussion Contributions
 
